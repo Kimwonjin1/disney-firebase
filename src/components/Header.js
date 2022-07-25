@@ -59,7 +59,7 @@ const Header = (props) => {
   return (
     <Nav>
       <Logo>
-        <img src="/images/logo.svg" alt="Disney+" />
+        <img src="../../public/images/logo.svg" alt="Disney+" />
       </Logo>
 
       {!userName ? (
@@ -68,27 +68,27 @@ const Header = (props) => {
         <>
           <NavMenu>
             <a href="/home">
-              <img src="/images/home-icon.svg" alt="HOME" />
+              <img src="../../public/images/home-icon.svg" alt="HOME" />
               <span>HOME</span>
             </a>
             <a>
-              <img src="/images/search-icon.svg" alt="SEARCH" />
+              <img src="../../public/images/search-icon.svg" alt="SEARCH" />
               <span>SEARCH</span>
             </a>
             <a>
-              <img src="/images/watchlist-icon.svg" alt="WATCHLIST" />
+              <img src="../../public/images/watchlist-icon.svg" alt="WATCHLIST" />
               <span>WATCHLIST</span>
             </a>
             <a>
-              <img src="/images/original-icon.svg" alt="ORIGINALS" />
+              <img src="../../public/images/original-icon.svg" alt="ORIGINALS" />
               <span>ORIGINALS</span>
             </a>
             <a>
-              <img src="/images/movie-icon.svg" alt="MOVIES" />
+              <img src="../../public/images/movie-icon.svg" alt="MOVIES" />
               <span>MOVIES</span>
             </a>
             <a>
-              <img src="/images/series-icon.svg" alt="SERIES" />
+              <img src="../../public/images/series-icon.svg" alt="SERIES" />
               <span>SERIES</span>
             </a>
           </NavMenu>
