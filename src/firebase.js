@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAGrdvVhy0dfchLwvF1NoExsA_GmnQijcY",
+  apiKey: process.env.REACT_APP_FIREBASE_KEY,
   authDomain: "disney-ddd33.firebaseapp.com",
   projectId: "disney-ddd33",
   storageBucket: "disney-ddd33.appspot.com",

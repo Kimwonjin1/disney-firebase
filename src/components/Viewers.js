@@ -4,34 +4,34 @@ const Viewers = (props) => {
   return (
     <Container>
       <Wrap>
-        <img src="../../public/images/viewers-disney.png" alt="" />
+        <img src="https://kimwonjin1.github.io/disney-firebase/public/images/viewers-disney.png" alt="" />
         <video autoPlay={true} loop={true} playsInline={true}>
-          <source src="../../public/videos/1564674844-disney.mp4" type="video/mp4" />
+          <source src="https://kimwonjin1.github.io/disney-firebase/public/videos/1564674844-disney.mp4" type="video/mp4" />
         </video>
       </Wrap>
       <Wrap>
-        <img src="../../public/images/viewers-pixar.png" alt="" />
+        <img src="https://kimwonjin1.github.io/disney-firebase/public/images/viewers-pixar.png" alt="" />
         <video autoPlay={true} loop={true} playsInline={true}>
-          <source src="../../public/videos/1564676714-pixar.mp4" type="video/mp4" />
+          <source src="https://kimwonjin1.github.io/disney-firebase/public/videos/1564676714-pixar.mp4" type="video/mp4" />
         </video>
       </Wrap>
       <Wrap>
-        <img src="../../public/images/viewers-marvel.png" alt="" />
+        <img src="https://kimwonjin1.github.io/disney-firebase/public/images/viewers-marvel.png" alt="" />
         <video autoPlay={true} loop={true} playsInline={true}>
-          <source src="../../public/videos/1564676115-marvel.mp4" type="video/mp4" />
+          <source src="https://kimwonjin1.github.io/disney-firebase/public/videos/1564676115-marvel.mp4" type="video/mp4" />
         </video>
       </Wrap>
       <Wrap>
-        <img src="../../public/images/viewers-starwars.png" alt="" />
+        <img src="https://kimwonjin1.github.io/disney-firebase/public/images/viewers-starwars.png" alt="" />
         <video autoPlay={true} loop={true} playsInline={true}>
-          <source src="../../public/videos/1608229455-star-wars.mp4" type="video/mp4" />
+          <source src="https://kimwonjin1.github.io/disney-firebase/public/videos/1608229455-star-wars.mp4" type="video/mp4" />
         </video>
       </Wrap>
       <Wrap>
-        <img src="../../public/images/viewers-national.png" alt="" />
+        <img src="https://kimwonjin1.github.io/disney-firebase/public/images/viewers-national.png" alt="" />
         <video autoPlay={true} loop={true} playsInline={true}>
           <source
-            src="../../public/videos/1564676296-national-geographic.mp4"
+            src="https://kimwonjin1.github.io/disney-firebase/public/videos/1564676296-national-geographic.mp4"
             type="video/mp4"
           />
         </video>
